@@ -11,7 +11,7 @@ Este proyecto es una aplicación en Java que permite buscar animes utilizando la
 - Permite buscar animes ingresando su nombre en la consola.
 - Consume la API pública de Kitsu.io para obtener información detallada del anime.
   
-![Demostración](img/test.gif)
+![Demostracion](img/test.gif)
 
 ## 🛠 Tecnologías Utilizadas
 - Java 17
